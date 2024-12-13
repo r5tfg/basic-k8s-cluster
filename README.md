@@ -1,7 +1,7 @@
 # Basic-k8s-cluster
 In this repository, I developed a basic k8s cluster, with 4 configuration files., using configMaps, secrets, service and deployments.
 
-# How to run this kluster
+# How to run this cluster
 
 You need to have installed on your computer(Windows) [Docker Desktop](https://www.docker.com/products/docker-desktop/).
 
